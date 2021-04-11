@@ -1,4 +1,4 @@
-# dsft01-section1-solo-project
+# ds-sc1-DataEDA-Amazon-Toy-Review-data
 
 ## 프로젝트 소개: 
 본 프로젝트는 '아마존 장난감 데이터'를 분석하여 기본적인 데이터 EDA를 연습하기 위한 의도로 시작되었습니다.
