@@ -17,7 +17,7 @@ Q. 조카 선물로 어떤 장난감을 선물해줘야 잘 주는 걸까? (아�
 
 캐글에 있는 '아마존 장난감 데이터('Toy Products on Amazon, 10,000 toy products on Amazon.com')를 사용하였습니다. 
 
-※데이터 출처: https://www.kaggle.com/PromptCloudHQ/toy-products-on-amazon
+※[데이터 출처](https://www.kaggle.com/PromptCloudHQ/toy-products-on-amazon)
 
 <주요 특성(feature)설명>
 - product_name
